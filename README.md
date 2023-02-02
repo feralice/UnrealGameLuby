@@ -17,3 +17,6 @@ Nessa zona Molly deve atirar na sequência correta em que as luzes piscaram, par
 - Zona 3:
 
 Os bonecos de pelúcia do quarto de Molly tomaram vida e para isso você deve derrotá-los com sua arma de bolinhas, tem uns que atiram e outros que fazem combate corpo a corpo
+
+
+Ctrl para agachar e shift para correr
